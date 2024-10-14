@@ -1,0 +1,71 @@
+body {
+    height:100vh ;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5d209;
+    background-image:url('https://images.pexels.com/photos/1809644/pexels-photo-1809644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') ;
+}
+
+header {
+    background: #f1670b;
+    color: #f9f3f3fd;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fef8f8;
+}
+
+nav a:hover {
+   box-shadow: 0 0 5px rgb(230, 86, 3),0 0 25px rgb(230, 86, 3),0 0 50px rgb(230, 86, 3),0 0 100px rgb(2230, 86, 3),0 0 200px rgb(230, 86, 3);
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: transparent;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.996);
+    color: #fbfafaf6;
+    text-align: center;
+}
+
+.project-image {
+    width: 350%;
+    max-width: 650px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.experience-image{
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+.experience-image1{  
+        width: 100%;
+        max-width: 350px;
+        height: auto;
+        border-radius: 5px;
+        margin-bottom: 10px;
+}
+.profile-image{
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
